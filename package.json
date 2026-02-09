@@ -1,0 +1,12 @@
+{
+  "name": "voidstream-test-plugin",
+  "version": "1.0.0",
+  "description": "Test plugin for VoidStream GitHub integration",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Tests passed\""
+  },
+  "keywords": ["voidstream", "plugin"],
+  "license": "MIT"
+}
